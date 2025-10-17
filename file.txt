@@ -1,1 +1,4 @@
 We are learning the concepts of Git.
+This is begining of our pratice session.
+This is the next modification.
+third modification
